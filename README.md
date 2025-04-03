@@ -4,7 +4,7 @@
 UIL-CS-EDU is a resource hub designed to support students who are beginning their journey in UIL Computer Science. This repository provides packets, solutions, and walkthroughs to help students understand key concepts and problem-solving techniques essential for UIL CS competitions. These problems do not exactly match the format of UIL problems, but they are great for developing specific skills tested by the UIL organization.
 
 ## Current Available Packets
-- File Input & Basics: Problems 1-15 | [Demo Video](https://example.com)
+- File Input & Basics: Problems 1-7 | [Live link coming soon](https://example.com)
 
 ## Composition
 - **Practice Packets**: A collection of practice packets that focus on specific skills (such as string problems or maze problems).

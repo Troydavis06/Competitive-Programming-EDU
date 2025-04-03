@@ -9,10 +9,8 @@ public class prob001 {
     }
 
     public void run() throws Exception {
-
         System.out.println("   []\n" +
                 "   []\n" +
                 "   []");
-
     }
 }
