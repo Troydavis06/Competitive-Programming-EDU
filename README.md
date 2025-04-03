@@ -5,6 +5,7 @@ UIL-CS-EDU is a resource hub designed to support students who are beginning thei
 
 ## Current Available Packets
 - File Input & Basics: Problems 1-7 | [Live link coming soon](https://example.com)
+- File Input & Basics Assessment: Problems 8-15 [Solutions](https://www.youtube.com/watch?v=1ZapM9QfKbU)
 
 ## Composition
 - **Practice Packets**: A collection of practice packets that focus on specific skills (such as string problems or maze problems).
